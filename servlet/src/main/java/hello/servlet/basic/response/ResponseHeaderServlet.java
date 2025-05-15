@@ -1,6 +1,5 @@
 package hello.servlet.basic.response;
 
-
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.Cookie;

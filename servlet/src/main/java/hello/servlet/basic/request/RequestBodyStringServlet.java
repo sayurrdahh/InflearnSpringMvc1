@@ -1,6 +1,5 @@
 package hello.servlet.basic.request;
 
-
 import jakarta.servlet.ServletException;
 import jakarta.servlet.ServletInputStream;
 import jakarta.servlet.annotation.WebServlet;

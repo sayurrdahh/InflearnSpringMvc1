@@ -1,8 +1,13 @@
 package hello.servlet.basic.request;
 
+/*
+* ObjectMapper
+* 1) java object = serialize => json
+* 2) json = deserialize => java object
+*
+* */
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.databind.exc.MismatchedInputException;
 import hello.servlet.basic.HelloData;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.ServletInputStream;
